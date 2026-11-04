@@ -71,7 +71,7 @@ pip install win-disk-architect
 ```
 
 ### Option B: Standalone Portable Executable (No Python Required)
-Download the latest `WinDiskArchitect.exe` from [Releases](https://github.com/tugg86722-create/win-disk-architect/releases), open PowerShell or Windows Terminal as Administrator, and run:
+Download the latest `WinDiskArchitect.exe` from [Releases](https://github.com/DewellNaa/win-disk-architect/releases), open PowerShell or Windows Terminal as Administrator, and run:
 ```powershell
 .\WinDiskArchitect.exe diagnose
 ```

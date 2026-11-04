@@ -36,9 +36,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/tugg86722-create/win-disk-architect"
-Repository = "https://github.com/tugg86722-create/win-disk-architect.git"
-Issues = "https://github.com/tugg86722-create/win-disk-architect/issues"
+Homepage = "https://github.com/DewellNaa/win-disk-architect"
+Repository = "https://github.com/DewellNaa/win-disk-architect.git"
+Issues = "https://github.com/DewellNaa/win-disk-architect/issues"
 
 [project.scripts]
 windisk = "windisk.cli:main"
