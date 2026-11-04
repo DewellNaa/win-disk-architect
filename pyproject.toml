@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "win-disk-architect"
+version = "1.0.0"
+description = "Windows System Drive Architecture Optimizer & Non-destructive Space Governance for Modern AI/Developers"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Antigravity Open Source Community"}
+]
+keywords = [
+    "windows",
+    "disk",
+    "storage",
+    "optimizer",
+    "compactos",
+    "cleaner",
+    "ntfs",
+    "junction",
+    "ai-developer"
+]
+classifiers = [
+    "Operating System :: Microsoft :: Windows",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: System :: Systems Administration",
+    "Topic :: Utilities"
+]
+
+[project.urls]
+Homepage = "https://github.com/naif-ai/win-disk-architect"
+Repository = "https://github.com/naif-ai/win-disk-architect.git"
+Issues = "https://github.com/naif-ai/win-disk-architect/issues"
+
+[project.scripts]
+windisk = "windisk.cli:main"
+win-disk = "windisk.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
