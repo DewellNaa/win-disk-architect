@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20%7C%20Server-0078D6.svg?logo=windows)](https://www.microsoft.com/windows/)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?logo=python)](https://www.python.org/)
+[![GitHub release](https://img.shields.io/github/v/release/DewellNaa/win-disk-architect?color=orange&logo=github)](https://github.com/DewellNaa/win-disk-architect/releases)
+[![Gitee Mirror](https://img.shields.io/badge/Gitee-%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F-C71D23.svg?logo=gitee)](https://gitee.com/DewellNaa/win-disk-architect)
 [![Safety: SendToRecycleBin](https://img.shields.io/badge/Safety-%E5%8E%9F%E7%94%9F%E5%9B%9E%E6%94%B6%E7%AB%99%E5%AE%88%E6%8A%A4-brightgreen.svg)]()
 
 > **专为现代 AI 开发者、工程师与极客量身定制的 Windows 系统盘架构治理与无损瘦身引擎。**  
