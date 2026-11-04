@@ -71,7 +71,7 @@ pip install win-disk-architect
 ```
 
 ### 方式二：免 Python 环境单文件绿色版（小白即用）
-直接从 [Releases](https://github.com/naif-ai/win-disk-architect/releases) 下载编译好的 `WinDiskArchitect.exe`：
+直接从 [Releases](https://github.com/tugg86722-create/win-disk-architect/releases) 下载编译好的 `WinDiskArchitect.exe`：
 右键以管理员身份打开 Windows 终端（PowerShell），输入：
 ```powershell
 .\WinDiskArchitect.exe diagnose
